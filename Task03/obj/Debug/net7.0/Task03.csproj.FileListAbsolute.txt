@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#lessons\Task03\bin\Debug\net7.0\Task03.exe
+C:\Users\User\Desktop\C#lessons\Task03\bin\Debug\net7.0\Task03.deps.json
+C:\Users\User\Desktop\C#lessons\Task03\bin\Debug\net7.0\Task03.runtimeconfig.json
+C:\Users\User\Desktop\C#lessons\Task03\bin\Debug\net7.0\Task03.dll
+C:\Users\User\Desktop\C#lessons\Task03\bin\Debug\net7.0\Task03.pdb
+C:\Users\User\Desktop\C#lessons\Task03\obj\Debug\net7.0\Task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#lessons\Task03\obj\Debug\net7.0\Task03.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#lessons\Task03\obj\Debug\net7.0\Task03.AssemblyInfo.cs
+C:\Users\User\Desktop\C#lessons\Task03\obj\Debug\net7.0\Task03.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#lessons\Task03\obj\Debug\net7.0\Task03.dll
+C:\Users\User\Desktop\C#lessons\Task03\obj\Debug\net7.0\refint\Task03.dll
+C:\Users\User\Desktop\C#lessons\Task03\obj\Debug\net7.0\Task03.pdb
+C:\Users\User\Desktop\C#lessons\Task03\obj\Debug\net7.0\Task03.genruntimeconfig.cache
+C:\Users\User\Desktop\C#lessons\Task03\obj\Debug\net7.0\ref\Task03.dll
