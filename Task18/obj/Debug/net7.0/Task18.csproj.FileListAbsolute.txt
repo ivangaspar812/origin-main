@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#lessons\Task18\obj\Debug\net7.0\Task18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#lessons\Task18\obj\Debug\net7.0\Task18.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#lessons\Task18\obj\Debug\net7.0\Task18.AssemblyInfo.cs
+C:\Users\User\Desktop\C#lessons\Task18\obj\Debug\net7.0\Task18.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#lessons\Task18\bin\Debug\net7.0\Task18.exe
+C:\Users\User\Desktop\C#lessons\Task18\bin\Debug\net7.0\Task18.deps.json
+C:\Users\User\Desktop\C#lessons\Task18\bin\Debug\net7.0\Task18.runtimeconfig.json
+C:\Users\User\Desktop\C#lessons\Task18\bin\Debug\net7.0\Task18.dll
+C:\Users\User\Desktop\C#lessons\Task18\bin\Debug\net7.0\Task18.pdb
+C:\Users\User\Desktop\C#lessons\Task18\obj\Debug\net7.0\Task18.dll
+C:\Users\User\Desktop\C#lessons\Task18\obj\Debug\net7.0\refint\Task18.dll
+C:\Users\User\Desktop\C#lessons\Task18\obj\Debug\net7.0\Task18.pdb
+C:\Users\User\Desktop\C#lessons\Task18\obj\Debug\net7.0\Task18.genruntimeconfig.cache
+C:\Users\User\Desktop\C#lessons\Task18\obj\Debug\net7.0\ref\Task18.dll
