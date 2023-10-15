@@ -3,7 +3,7 @@
 который на вход принимает два числа и выводит, какое число большее, а какое меньшее.
 */
 System.Console.WriteLine("Введите два числа: ");
-int firstNumber = 
+int firstNumber = int.Parse
 int secondNumber = 
 if(firstNumber < secondNumber)
 {
