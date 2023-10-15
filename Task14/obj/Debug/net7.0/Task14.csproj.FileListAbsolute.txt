@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#lessons\Task14\bin\Debug\net7.0\Task14.exe
+C:\Users\User\Desktop\C#lessons\Task14\bin\Debug\net7.0\Task14.deps.json
+C:\Users\User\Desktop\C#lessons\Task14\bin\Debug\net7.0\Task14.runtimeconfig.json
+C:\Users\User\Desktop\C#lessons\Task14\bin\Debug\net7.0\Task14.dll
+C:\Users\User\Desktop\C#lessons\Task14\bin\Debug\net7.0\Task14.pdb
+C:\Users\User\Desktop\C#lessons\Task14\obj\Debug\net7.0\Task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#lessons\Task14\obj\Debug\net7.0\Task14.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#lessons\Task14\obj\Debug\net7.0\Task14.AssemblyInfo.cs
+C:\Users\User\Desktop\C#lessons\Task14\obj\Debug\net7.0\Task14.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#lessons\Task14\obj\Debug\net7.0\Task14.dll
+C:\Users\User\Desktop\C#lessons\Task14\obj\Debug\net7.0\refint\Task14.dll
+C:\Users\User\Desktop\C#lessons\Task14\obj\Debug\net7.0\Task14.pdb
+C:\Users\User\Desktop\C#lessons\Task14\obj\Debug\net7.0\Task14.genruntimeconfig.cache
+C:\Users\User\Desktop\C#lessons\Task14\obj\Debug\net7.0\ref\Task14.dll

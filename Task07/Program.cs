@@ -7,7 +7,12 @@
 */
 
 System.Console.WriteLine("Введите трехзначное число: ");
-int number = Convert.ToInt32(System.Console.ReadLine());
-
-System.Console.Write("Последняя цифра: ");
-System.Console.WriteLine(number % 10);
+int number = Convert.ToInt32(Console.ReadLine());
+if (number > 100 && number <= 999)
+{
+    System.Console.WriteLine(number % 10);;
+}
+else if (number < 100 || number >999)
+{
+    System.Console.WriteLine("Введено неправильное число!");
+}

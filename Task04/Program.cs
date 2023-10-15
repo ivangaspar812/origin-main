@@ -4,17 +4,17 @@
 */
 
 System.Console.WriteLine("Введите 3 числа: ");
-int a = 0;
-int b = 0;
-int c = 0; 
-int result = a;
+int number1 = Convert.ToInt32(Console.ReadLine());
+int number2 = Convert.ToInt32(Console.ReadLine());
+int number3 = Convert.ToInt32(Console.ReadLine());
+int result = number1;
 
-if(b > result)
+if(number2 > result)
 {
-    result = b;
+    result = number2;
 }
-if(c > result)
+if(number3 > result)
 {
-    result = c;
+    result = number3;
 }
-return result;
+System.Console.WriteLine($"Максимальное число - это {result}");

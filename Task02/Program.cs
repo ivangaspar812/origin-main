@@ -3,8 +3,8 @@
 который на вход принимает два числа и выводит, какое число большее, а какое меньшее.
 */
 System.Console.WriteLine("Введите два числа: ");
-int firstNumber = int.Parse
-int secondNumber = 
+int firstNumber = Convert.ToInt32(Console.ReadLine());
+int secondNumber = Convert.ToInt32(Console.ReadLine());
 if(firstNumber < secondNumber)
 {
     System.Console.WriteLine($"Первое число {firstNumber} меньше чем второе число {secondNumber}");
@@ -15,5 +15,5 @@ else if(secondNumber < firstNumber)
 }
 else if(firstNumber == secondNumber)
 {
-    System.Console.WriteLine($"Введенные числа равны {firstNumber}");
+    System.Console.WriteLine("Введенные числа равны");
 }

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#lessons\Task23\bin\Debug\net7.0\Task23.exe
+C:\Users\User\Desktop\C#lessons\Task23\bin\Debug\net7.0\Task23.deps.json
+C:\Users\User\Desktop\C#lessons\Task23\bin\Debug\net7.0\Task23.runtimeconfig.json
+C:\Users\User\Desktop\C#lessons\Task23\bin\Debug\net7.0\Task23.dll
+C:\Users\User\Desktop\C#lessons\Task23\bin\Debug\net7.0\Task23.pdb
+C:\Users\User\Desktop\C#lessons\Task23\obj\Debug\net7.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#lessons\Task23\obj\Debug\net7.0\Task23.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#lessons\Task23\obj\Debug\net7.0\Task23.AssemblyInfo.cs
+C:\Users\User\Desktop\C#lessons\Task23\obj\Debug\net7.0\Task23.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#lessons\Task23\obj\Debug\net7.0\Task23.dll
+C:\Users\User\Desktop\C#lessons\Task23\obj\Debug\net7.0\refint\Task23.dll
+C:\Users\User\Desktop\C#lessons\Task23\obj\Debug\net7.0\Task23.pdb
+C:\Users\User\Desktop\C#lessons\Task23\obj\Debug\net7.0\Task23.genruntimeconfig.cache
+C:\Users\User\Desktop\C#lessons\Task23\obj\Debug\net7.0\ref\Task23.dll
