@@ -4,26 +4,25 @@
 6, 1, 33 -> [6, 1, 33]
 */
 
-int[] newArray = NewArrayFilledRandom();
+int[] createArray(int 8, int 10, int 50);
 
-PrintArray(newArray);
-
-
+Print(array);
 
 
+int[] array = new int[size];
 
-void PrintArray(int[] arr)
+var random = new Random();
+
+for (int i = 0; i < array.Length; i++)
 {
-    foreach( int i in arr)
-        System.Console.Write(i + "\t");
+    array[i] = random.Next(minValue, maxValue);
 }
+return array;
 
-int[] NewArrayFilledRandom()
+void Print(int[] array)
 {
-    int[] arr = new int[8];
-    for(int i = 0; i < arr.Length; i++)
-    {
-        arr[i] = new Random().Next(0, 2);
-    }
-    return arr;
+foreach (int i in array)
+{
+    System.Console.WriteLine(I + " ");
+}
 }
